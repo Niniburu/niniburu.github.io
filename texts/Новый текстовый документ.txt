@@ -1,0 +1,6 @@
+AlisherKarimov\texts\colors\index.html
+AlisherKarimov\texts\isometric\index.html
+AlisherKarimov\texts\layered-text\index.html
+AlisherKarimov\texts\retro\index.html
+AlisherKarimov\texts\silent\index.html
+AlisherKarimov\texts\title\index.html
